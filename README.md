@@ -7,6 +7,7 @@ Sistema de Busca Semântica usando **LangChain**, **PostgreSQL** com extensão *
 - Python 3.10+
 - Docker e Docker Compose
 - Variáveis de ambiente configuradas (`.env`)
+   - [arquivo de exemplo](.env.example)
 
 ## Setup
 
